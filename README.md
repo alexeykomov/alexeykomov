@@ -7,6 +7,6 @@ I'm Alexey, web-developer focusing on frontend. Recently I liked iOS native deve
 - 🔭 My main work at company involves React/TypeScript/AWS.
 - 🌱 I’m currently learning iOS native development.
 - 👯 I’m looking to collaborate on open source project in **science**. Web or iOS are welcome, but other tech is fine, too.
-- 🤔 I’m looking for help with **Radzima** app - iOS developers are welcome, web are needed developers to create landing page.
+- 🤔 I’m looking for help with **Radzima** app - iOS developers are welcome, web developers are needed to create landing page.
 - 💬 Ask me about JavaScript, Web in general.
 
