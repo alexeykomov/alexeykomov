@@ -2,7 +2,7 @@
 
 I'm Alexey, web-developer focusing on frontend. Recently I liked iOS native development, too.
 
-- Projects I'm proud of - [Reflect calendar](reflectcal.com/guest), [Radzima app](https://github.com/radzima-green-travel/green-travel-combine/issues).
+- Projects I'm proud of - [Reflect calendar](https://reflectcal.com/guest), [Radzima app](https://github.com/radzima-green-travel/green-travel-combine).
 - 🔭 I’m currently working on [Radzima iOS native app](https://github.com/radzima-green-travel/green-travel-combine/issues) (Objective-C/UIKit/Core Data).
 - 🔭 My main work at company involves React/TypeScript/AWS.
 - 🌱 I’m currently learning iOS native development.
