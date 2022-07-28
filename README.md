@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, I'm Alexey
 
-- 👨‍💻 I'm Alexey, web-developer focusing on **frontend**(JavaScript / Web / React / TypeScript / AWS).
+- 👨‍💻 I'm web-developer focusing on **frontend**(JavaScript / Web / React / TypeScript / AWS).
 - 🌱 Learning **iOS native** development.
 - 🤝 I'd love to collaborate on **scientific** open source project (web or mobile).
 - 🤔 I'd appreciate a hand with Radzima app - iOS developers are welcome, web developers are needed to create [landing page](https://github.com/radzima-green-travel/radzima.app).
