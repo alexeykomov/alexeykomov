@@ -9,6 +9,6 @@
 ### Open-source projects
 - 🌲 Co-authored [Radzima app](https://apps.apple.com/app/radzima/id1587158874) for ecotourism in Belarus. [Source](https://github.com/radzima-green-travel/green-travel-combine/issues) (Objective-C / UIKit / Core Data / Mapbox).
   <img src="https://raw.githubusercontent.com/alexeykomov/alexeykomov/master/public/images/travel_app2.jpg">
-- 📆 Created web calendar applicaton [Reflect calendar](https://reflectcal.com/guest). [Source](https://github.com/reflectcal).
+- 📆 Created web calendar applicaton [Reflect calendar](https://reflectcal.com/guest). [Source](https://github.com/reflectcal) (JavaScript / [Closure Compiler](https://developers.google.com/closure/compiler) / [Closure Templates](https://github.com/google/closure-templates) / [Closure Library](https://developers.google.com/closure/library)).
   <img src="https://raw.githubusercontent.com/alexeykomov/alexeykomov/master/public/images/calendar.jpg">
 
