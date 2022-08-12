@@ -3,7 +3,7 @@
 - 👨‍💻 I'm web-developer focusing on **frontend**(JavaScript / Web / React / TypeScript / AWS). [Resume](https://alexeykomov.me/resume/resume.pdf).
 - 🌱 Learning **iOS native** development.
 - 🤝 I'd love to collaborate on **scientific** open source project (web or mobile).
-- 🤔 I'd appreciate a hand with Radzima app - iOS developers are welcome, web developers are needed to create [landing page](https://github.com/radzima-green-travel/radzima.app).
+- 🤔 I'd appreciate a hand with Radzima app from iOS developer colleagues.
 - ✈️ I'm interested in relocation to **Japan** 🇯🇵.
 
 ### Open-source projects
