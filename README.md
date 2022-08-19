@@ -1,6 +1,6 @@
 ### Hi, I'm Alexey
 
-- 👨‍💻 I'm web-developer focusing on **frontend**(JavaScript / Web / React / TypeScript / AWS). [Resume](https://alexeykomov.me/resume/resume.pdf).
+- 👨‍💻 I'm web-developer focusing on **frontend**(JavaScript / Web / React / TypeScript / AWS). [Resume](https://alexeykomov.me/resume/resume.pdf). [LinkedIn](https://www.linkedin.com/in/alexey-komov-89b04795/).
 - 🌱 Learning **iOS native** development.
 - 🤝 I'd love to collaborate on **scientific** open source project (web or mobile).
 - 🤔 I'd appreciate a hand with Radzima app from iOS developer colleagues.
